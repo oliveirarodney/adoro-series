@@ -1,0 +1,23 @@
+Banco de dados utilizado: SQL Server
+Compilador utilizado: Netbeans
+
+Enviar as imagens que estão dentro da pasta imagens para a pasta C://, antes de executar a query de criação do banco de dados
+
+Executar a query
+
+Executar o programa
+
+Login admin: 
+	Login: rod
+	Senha: rod
+
+	Login: pedro
+	Senha: pedro
+
+Login usuario:
+	Login: thales
+	Senha: thales
+
+	Login: mayk
+	Senha: mayk
+
