@@ -22,10 +22,10 @@ public class DatabaseSQLServer implements Database {
         try {
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
            String url = "jdbc:sqlserver://"
-                    +"localhost:1433;"
-                   +"database=bancodeseries;"
-                    +"user=bancodeseries;"
-                    +"password=bancodeseries;";
+                    +"rodney-ifsp.database.windows.net;"
+                    +"database=adoro-series;"
+                    +"user=adoro-series;"
+                    +"password=Ad0r0s3r13s*;";
            
                     this.connection = DriverManager.getConnection(url);
             System.out.println("Conectado");
